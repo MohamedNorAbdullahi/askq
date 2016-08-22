@@ -1,0 +1,14 @@
+{
+    "name": "mohamednorabdullahi/askq",
+    "description": "Ask Q Project",
+    "type": "project",
+    "license": "Open-source",
+    "authors": [
+        {
+            "name": "Mohamed Nor",
+            "email": "mohamednorab@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
